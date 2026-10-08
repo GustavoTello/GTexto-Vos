@@ -8,7 +8,7 @@ const firebaseConfig = {
   projectId: "tienda-virtual-883ef",
   storageBucket: "tienda-virtual-883ef.firebasestorage.app",
   messagingSenderId: "871120614985",
-  appId: "1:871120614985:web:0274d91497b7f1e3d33198"
+  appId: "EL_APPID_BUSCA_A_APIKEY"
 };
 
 const app = initializeApp(firebaseConfig);
