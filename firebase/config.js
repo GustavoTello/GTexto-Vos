@@ -3,7 +3,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.1/firebas
 import { getFirestore, collection, addDoc, getDocs } from "https://www.gstatic.com/firebasejs/11.0.1/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDNeN0AIcXw0aAiwc6S7472y7YMjHzbV94",
+  apiKey: "EL_APIKEY_ESCAPO",
   authDomain: "tienda-virtual-883ef.firebaseapp.com",
   projectId: "tienda-virtual-883ef",
   storageBucket: "tienda-virtual-883ef.firebasestorage.app",
