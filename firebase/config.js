@@ -4,10 +4,10 @@ import { getFirestore, collection, addDoc, getDocs } from "https://www.gstatic.c
 
 const firebaseConfig = {
   apiKey: "EL_APIKEY_ESCAPO",
-  authDomain: "tienda-virtual-883ef.firebaseapp.com",
-  projectId: "tienda-virtual-883ef",
-  storageBucket: "tienda-virtual-883ef.firebasestorage.app",
-  messagingSenderId: "871120614985",
+  authDomain: "tienda-*****-883ef.firebaseapp.com",
+  projectId: "tienda-**********",
+  storageBucket: "tienda-*********************.app",
+  messagingSenderId: "8*******85",
   appId: "EL_APPID_BUSCA_A_APIKEY"
 };
 
